@@ -202,7 +202,7 @@ const projects = [
     url: "https://threejscustomizer-rt.vercel.app/",
     urlImg: link,
     source_code_link:
-      "https://github.com/Officialsmartz/My-Data-Analyst-Portfolio.git",
+      "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
   {
     name: "AIRLINE SATISFACTORY SURVEY DASHBOARD ",
@@ -222,7 +222,7 @@ const projects = [
     url: "https://amazon-clone-3woo.vercel.app/",
     urlImg: link,
     source_code_link:
-      "https://github.com/Officialsmartz/My-Data-Analyst-Portfolio.git",
+      "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
   {
     name: "DATA SCIENCE JOB MARKET EDA ",
@@ -242,7 +242,7 @@ const projects = [
     urlImg: link,
     url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
-      "https://github.com/Officialsmartz/My-Data-Analyst-Portfolio.git",
+      "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
 
   {
@@ -267,7 +267,7 @@ const projects = [
     urlImg: link,
     url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
-      "https://github.com/Officialsmartz/My-Data-Analyst-Portfolio.git",
+      "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
   {
     name: "KPI DASHBOARD",
@@ -287,7 +287,7 @@ const projects = [
     urlImg: link,
     url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
-      "https://github.com/Officialsmartz/My-Data-Analyst-Portfolio.git",
+      "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
   {
     name: "HR ATTRITION DASHBOARD ",
@@ -315,7 +315,7 @@ const projects = [
     urlImg: link,
     url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
-      "https://github.com/Officialsmartz/My-Data-Analyst-Portfolio.git",
+      "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
 ];
 
