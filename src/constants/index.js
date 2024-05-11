@@ -39,11 +39,11 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
-  {
-    idk: "download",
-    titlem: "Download CV",
+  // {
+  //   idk: "download",
+  //   titlem: "Download CV",
     
-  },
+  // },
 ];
 
 const services = [

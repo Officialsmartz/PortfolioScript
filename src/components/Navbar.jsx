@@ -9,13 +9,13 @@ const Navbar = () => {
 
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
-  const handleClick = () => {
-    const pdfPath = "../src/assets/queen_cv.pdf"; // Replace with your PDF file path
-    const link = document.createElement('a');
-    link.href = pdfPath;
-    link.download = 'queen_cv.pdf';
-    link.click();
-  };
+  // const handleClick = () => {
+  //   const pdfPath = "../src/assets/queen_cv.pdf"; // Replace with your PDF file path
+  //   const link = document.createElement('a');
+  //   link.href = pdfPath;
+  //   link.download = 'queen_cv.pdf';
+  //   link.click();
+  // };
   
   return (
     <nav
@@ -49,7 +49,7 @@ const Navbar = () => {
             </li>
           ))}
         </ul>
-        <ul className="list-none hidden sm:flex flex-row gap-10">
+        {/* <ul className="list-none hidden sm:flex flex-row gap-10">
           {navLinks.map((link) => (
             <li
               key={link.idk}
@@ -61,7 +61,7 @@ const Navbar = () => {
               <a href={`#${link.idk}`}>{link.titlem}</a>
             </li>
           ))}
-        </ul>
+        </ul> */}
 
         <div className=" sm:hidden flex flex-1 justify-end items-center">
           <img
