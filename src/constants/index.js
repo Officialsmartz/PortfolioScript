@@ -199,7 +199,7 @@ const projects = [
       },
     ],
     image: three,
-    url: "https://threejscustomizer-rt.vercel.app/",
+    // url: "https://threejscustomizer-rt.vercel.app/",
     urlImg: link,
     source_code_link:
       "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
@@ -219,7 +219,7 @@ const projects = [
       },
     ],
     image: amazon,
-    url: "https://amazon-clone-3woo.vercel.app/",
+    // url: "https://amazon-clone-3woo.vercel.app/",
     urlImg: link,
     source_code_link:
       "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
@@ -240,7 +240,7 @@ const projects = [
     ],
     image: dalle,
     urlImg: link,
-    url: "https://dall-e-rose-ten.vercel.app/",
+    // url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
       "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
@@ -265,7 +265,7 @@ const projects = [
     ],
     image: ontheside,
     urlImg: link,
-    url: "https://dall-e-rose-ten.vercel.app/",
+    // url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
       "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
@@ -285,7 +285,7 @@ const projects = [
     ],
     image: backend,
     urlImg: link,
-    url: "https://dall-e-rose-ten.vercel.app/",
+    // url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
       "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
@@ -313,7 +313,7 @@ const projects = [
     ],
     image: ama,
     urlImg: link,
-    url: "https://dall-e-rose-ten.vercel.app/",
+    // url: "https://dall-e-rose-ten.vercel.app/",
     source_code_link:
       "https://github.com/Queen-okolie/All-My-ProjectPortfolios.git",
   },
